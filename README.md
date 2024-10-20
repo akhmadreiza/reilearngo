@@ -26,3 +26,6 @@ go install
 
 ## Compile and Install
 After running `go build` and `go install` the executable file will generated in `~/go/bin`
+
+## Standard Project Layout
+see: https://github.com/golang-standards/project-layout
