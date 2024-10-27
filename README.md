@@ -29,3 +29,8 @@ After running `go build` and `go install` the executable file will generated in 
 
 ## Standard Project Layout
 see: https://github.com/golang-standards/project-layout
+
+## Useful Links
+- Getting started: https://go.dev/doc/tutorial/getting-started
+- Go packages: https://pkg.go.dev/
+- Goquery for web scraping: https://github.com/PuerkitoBio/goquery
