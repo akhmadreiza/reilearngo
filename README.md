@@ -22,6 +22,9 @@ go mod tidy
 ## Compile to executable
 go build
 go install
+
+## Run all tests from root project
+go test ./...
 ```
 
 ## Compile and Install
